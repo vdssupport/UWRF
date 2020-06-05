@@ -20,7 +20,7 @@ html {
 
 header.header-main {
   background-color: #{{Color_1}};
-  height:10.5em;
+  height:8.5em;
 }
 
 .logo {
@@ -31,7 +31,7 @@ header.header-main {
 }
 
 header.header-page {
-  background-color:#{{Color_2}};
+  background-color:#Be0f34;
 }
 
 .header-page .tabs li a {
